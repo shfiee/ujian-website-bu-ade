@@ -1,0 +1,45 @@
+body
+{
+    background-color: rgb(249, 96, 162)
+}
+
+#header
+{
+    width: 98%;
+    height: 50px;
+    background-color: #de92f4;
+    border: 3px solid #000000;
+    text-align: center;
+    font-size: 30px;
+    padding: 10px 10px 10px 10px;
+}
+
+#menuu
+{
+    width: 22%;
+    height: 10000px;
+    background-color: rgb(145, 206, 250);
+    border: 3px solid #000000;
+    float: left;
+}
+
+#isii
+{
+    width: 77%;
+    height: 10000px;
+    background-color: rgb(235, 177, 218);
+    border: 3px solid #000000;
+    float: right;
+}
+
+#footer
+{
+    width: 98%;
+    height: 25px;
+    background-color: #e0d90f;
+    border: 3px solid #000000;
+    text-align: right;
+    font-size: 15px;
+    padding: 10px 10px 10px 10px;
+    clear: both;
+}
